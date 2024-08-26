@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yarden Septon</h1>
+<h1 align="center">Hi I'm Yarden Septon 👋</h1>
 <h3 align="center">Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yardensepton&label=Profile%20views&color=0e75b6&style=flat" alt="yardensepton" /> </p>
