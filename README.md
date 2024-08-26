@@ -20,12 +20,8 @@ I'm a recent Software Engineering graduate.<br/>I have a strong interest in buil
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yardensepton&label=Profile%20views&color=0e75b6&style=flat" alt="yardensepton" /> </p>
 
 
-
-
-
-
-
-<h3 align="left">Connect with me </h3> <p align="left">
-<a href="https://linkedin.com/in/yardensepton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yardensepton" height="30" width="40" /></a>
+<h3 align="left">Connect with me 📲 </h3> <p align="left">
 </p>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyarden-septon-979a31224">
 
