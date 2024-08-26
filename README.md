@@ -23,5 +23,7 @@ I'm a recent Software Engineering graduate.<br/>I have a strong interest in buil
 <h3 align="left">Connect with me 📲 </h3> <p align="left">
 </p>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyarden-septon-979a31224">
+<a href="https://www.linkedin.com/in/yarden-septon-979a31224/">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
