@@ -11,6 +11,12 @@ I'm a recent Software Engineering graduate.<br/>I have a strong interest in buil
 
 <h3 align="left">Languages and Tools 🛠️</h3>
 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![fastapi Badge](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+) ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Static Badge](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase)
+![Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 
 
