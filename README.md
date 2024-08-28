@@ -41,4 +41,9 @@ I'm a recent Software Engineering graduate.<br/>I have a strong interest in buil
 <a href="https://www.linkedin.com/in/yarden-septon-979a31224/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="mailto:yardensepton@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+
 
