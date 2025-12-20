@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yarden Septon 👋</h1>
-I'm a Software Engineering<br/>I have a strong interest in building applications and enjoy exploring new projects to expand my skills.
+I'm a Software Engineer<br/>I have a strong interest in building applications and enjoy exploring new projects to expand my skills.
 <br/>
 <br/>
 <h3 align="left">About Me 🙋‍♀️</h3>
